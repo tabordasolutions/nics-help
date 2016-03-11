@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td>I'm having problems connecting, my login/password is being rejected</td>
-    <td>Please check that you can login via the Web UI at nics.ll.mit.edu, you should also check to see if you are trying to log into the correct workspace (training or incident)</td>
+    <td>Please check that you can login via the Web UI at scout.ca.gov, you should also check to see if you are trying to log into the correct workspace (training or incident)</td>
   </tr>
   <tr>
     <td>I want to select a different server before I log in</td>

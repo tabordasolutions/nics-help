@@ -59,7 +59,7 @@
 <div class="mainarea">
 <h1><u>SCOUT Home Page</u></h1>
 
-<p>The SCOUT Home Page is at <a href="http://nics.ll.mit.edu" target="_blank">
+<p>The SCOUT Home Page is at <a href="http://scout.ca.gov" target="_blank">
 HTTP://NICS.LL.MIT.EDU</a></p>
 
 <p>When you navigate to the site, you will see the SCOUT home page. From 
@@ -93,7 +93,7 @@ posted by a SCOUT Administrator.</p>
 <h3>SCOUT Login Page</h3>
 
 <p id="register">In order to access the SCOUT application, you must have a SCOUT account with a username and a password, 
-which is obtained when you <a href="https://nics.ll.mit.edu/sadisplay/register.seam" target="_blank">“Register”</a> and after the SCOUT administrator for your organization has 
+which is obtained when you <a href="https://scout.ca.gov/sadisplay/register.seam" target="_blank">“Register”</a> and after the SCOUT administrator for your organization has 
 approved your application online.</p>
 
 <p>Once authorized, users can login by providing their username and password in the provide areas.  A user can also 
