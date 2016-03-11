@@ -43,10 +43,10 @@ function validatesearch() {
 ////Table of Contents
 var TableofContents = [
 	["Getting Started",
-	    ["The NICS Help Site", "abouthelp"],
-		["About NICS", "about"],
-		["NICS Home Page", "frontpage"],
-		["First Steps in NICS", "firststeps"],
+	    ["The SCOUT Help Site", "abouthelp"],
+		["About SCOUT", "about"],
+		["SCOUT Home Page", "frontpage"],
+		["First Steps in SCOUT", "firststeps"],
 		["Incidents and Rooms", "incidents"],
 		["Windows and Panels", "windows"],
 		["Main Toolbar", "toolbar"]
@@ -56,7 +56,7 @@ var TableofContents = [
 		["Navigating the Map", "navigation"],
 		["Drawing", "drawing"],
 		["Data Layers", "data"]//, commented because lock feature
-		//["Locking the Room", "lock.php"] was removed from NICS?
+		//["Locking the Room", "lock.php"] was removed from SCOUT?
 	],
 	["Collaboration and Sharing",
 		["Chat", "chat"],
@@ -71,13 +71,13 @@ var TableofContents = [
 		["Drawing Tips", "drawing2"], 
 		["Apps", "aboutapps"]
 	],
-	["NICS Administration",
+	["SCOUT Administration",
 	    ["Admin Overview", "aboutadmin"],
-	    ["Types of NICS Users", "usergroups"],
+	    ["Types of SCOUT Users", "usergroups"],
         ["Managing Organizations", "orgadmin"]//, 
 	    //["Misc Tasks, "adminmisc"]
 	],
-	["NICS Mobile",
+	["SCOUT Mobile",
 		["Download and Login Help", "mobilelogin"],
 		["Settings", "mobilesettings"],
 		["Incidents and Rooms", "mobileincident"],
@@ -117,7 +117,7 @@ function writelink(title, link) {
 	if (page.match(title) == page) {
 		document.write("<span class=\"current\">" + title + "</span><br />");
 	} else {
-		document.write("<a target=\"_top\" href=\"/nicshelp/articles/" + link +
+		document.write("<a target=\"_top\" href=\"/scouthelp/articles/" + link +
 		".php\" >" + title + "</a><br />");
 	}
 }
