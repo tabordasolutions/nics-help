@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Forms and Reports ^ NICS Help</title>
+<title>Forms and Reports ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -59,7 +59,7 @@
 
 <h1><u>Forms and Reports</u></h1>
 
-<p>NICS currently provides standardized forms that can be accessed and updated 
+<p>SCOUT currently provides standardized forms that can be accessed and updated 
 by users in the same incident.  Below is the Report On Conditions form, 
 found in the right Side Panel window.  The authorized user can create the original 
 ROC and then update it as the incident progresses.  All versions of the ROC are 
@@ -71,13 +71,13 @@ available from this window. </p>
 </div>
 
 <p>Additionally, the FMAG ABC and ICS 215 forms are available for each incident.  
-Other forms are in development and will be added to NICS shortly.</p>
+Other forms are in development and will be added to SCOUT shortly.</p>
 
 </div></td>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

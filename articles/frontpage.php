@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>NICS Home Page ^ NICS Help</title>
+<title>SCOUT Home Page ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -57,13 +57,13 @@
 
 <td class="content">
 <div class="mainarea">
-<h1><u>NICS Home Page</u></h1>
+<h1><u>SCOUT Home Page</u></h1>
 
-<p>The NICS Home Page is at <a href="http://nics.ll.mit.edu" target="_blank">
+<p>The SCOUT Home Page is at <a href="http://nics.ll.mit.edu" target="_blank">
 HTTP://NICS.LL.MIT.EDU</a></p>
 
-<p>When you navigate to the site, you will see the NICS home page. From 
-it, you may access the NICS application by clicking on either the:</p>
+<p>When you navigate to the site, you will see the SCOUT home page. From 
+it, you may access the SCOUT application by clicking on either the:</p>
 
 <ul>
 <li><span class="bu">Incident Login</span> for use on real incidents <u>only</u>, or</li>
@@ -72,32 +72,32 @@ non-emergency use</li>
 </ul>
 
 <p>From this home page, an authorized individual can also <span class="bu">
-<a href="/sadisplay/register.seam">register</a></span> for a NICS account; 
+<a href="/sadisplay/register.seam">register</a></span> for a SCOUT account; 
 <span class="bu">retrieve your password</span> using the "Forgot Your Password" 
 service; access this <span class="bu">Help Site</span>; <span class="bu">Submit 
 Comments</span>; and <span class="bu">View Announcements</span> that have been 
-posted by a NICS Administrator.</p>
+posted by a SCOUT Administrator.</p>
 
 <div class="figure">
-<img class="main" src="../images/Home Page-final-9Jan13.jpg" alt="NICS front page" />
-<p>The NICS Front Page</p>
+<img class="main" src="../images/Home Page-final-9Jan13.jpg" alt="SCOUT front page" />
+<p>The SCOUT Front Page</p>
 </div> 
 
-<p>You may also check on Announcements from within the NICS application as shown below.</p>
+<p>You may also check on Announcements from within the SCOUT application as shown below.</p>
 
 <div class="figure">
-<img class="main" src="../images/View Announcements-final-5Sep12.jpg" alt="NICS front page" />
+<img class="main" src="../images/View Announcements-final-5Sep12.jpg" alt="SCOUT front page" />
 <p>Announcements Window</p>
 </div> 
 
-<h3>NICS Login Page</h3>
+<h3>SCOUT Login Page</h3>
 
-<p id="register">In order to access the NICS application, you must have a NICS account with a username and a password, 
-which is obtained when you <a href="https://nics.ll.mit.edu/sadisplay/register.seam" target="_blank">“Register”</a> and after the NICS administrator for your organization has 
+<p id="register">In order to access the SCOUT application, you must have a SCOUT account with a username and a password, 
+which is obtained when you <a href="https://nics.ll.mit.edu/sadisplay/register.seam" target="_blank">“Register”</a> and after the SCOUT administrator for your organization has 
 approved your application online.</p>
 
 <p>Once authorized, users can login by providing their username and password in the provide areas.  A user can also 
-request their NICS password be sent to the email address they provided during registration by clicking on the “Forgot 
+request their SCOUT password be sent to the email address they provided during registration by clicking on the “Forgot 
 your Password” link. </p>
 
 
@@ -107,7 +107,7 @@ your Password” link. </p>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

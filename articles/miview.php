@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Multi-Incident View ^ NICS Help</title>
+<title>Multi-Incident View ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -70,7 +70,7 @@ in the corresponding tab.</p>
 
 <p>Within the multi-incident view, you can toggle the view, see details of 
 individual incidents, and then enter selected incidents. When you click an 
-incident in the list, NICS will bring up corresponding metadata in the area 
+incident in the list, SCOUT will bring up corresponding metadata in the area 
 below, giving you a general overview of the selected incident.</p>
 
 <p>In addition to the meta data in the panel, each incident's general location 
@@ -80,7 +80,7 @@ will be plotted on the map.</p>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

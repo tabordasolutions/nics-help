@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Search Results - NICS Help</title>
+<title>Search Results - SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="includes/favicon.ico" rel="shortcut icon" />
 <link href="includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="includes/search.js" type="text/javascript"></script>
@@ -58,14 +58,14 @@ preg_replace('/\W\s/','',$_GET["helpquery"])));
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 
 <!-- Content area below -->
 
 <table class="body">
 <tr>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/contents.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/contents.php'; ?>
 
 <td class="content">
 <div class="mainarea">
@@ -154,7 +154,7 @@ foreach ($resultsarray as $argh){
 	echo "</h4>";
 	foreach ($resultsdisplay as $row) {
 		printf('<div class="searchresult">
-		<a target="_top" href="/nicshelp/%s">%s</a><br /><p class="samplep">%s</p>
+		<a target="_top" href="/scouthelp/%s">%s</a><br /><p class="samplep">%s</p>
 		</div>',$row["Url"],$row["Title"],$row["Sample"]."...");
 	}
 }
@@ -166,7 +166,7 @@ mysql_close($link);
 
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Video Library - NICS Help</title>
+<title>Video Library - SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="includes/search.js" type="text/javascript"></script>
 <link href="includes/favicon.ico" rel="shortcut icon" />
@@ -20,8 +20,8 @@
             "data='http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf' width='640' height='360'>" +
 			"<param name='movie' value='http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf' />" +
 			"<param name='flashVars' value=\"config={\n" +
-			"'playlist':['http://" + serveraddr + "/nicshelp/videos/" + name +
-			".jpg',{'url':'http://" + serveraddr + "/nicshelp/videos/" + name +
+			"'playlist':['http://" + serveraddr + "/scouthelp/videos/" + name +
+			".jpg',{'url':'http://" + serveraddr + "/scouthelp/videos/" + name +
 			".mp4','autoPlay':false}], 'plugins':{'controls':{'fullscreen':false}}" +
 			"}\" /></object></video>";
     }
@@ -58,7 +58,7 @@ div.tabHeading:active {
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -93,20 +93,20 @@ div.tabHeading:active {
 <table class="body">
 <tr>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/contents.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/contents.php'; ?>
 
 <td class="content">
 <div class="mainarea">
 
 <h1><u>Video Library</u></h1>
 <p>This page contains all the video tutorials found on the various 
-pages of the site, as well as other videos of NICS shown in the field.</p>
+pages of the site, as well as other videos of SCOUT shown in the field.</p>
 <p>Click on the videos to play them</p>
 <div class="figure">
 <table width="700px">
 <tr>
 	<td width="350px">
-		<div class="tabHeading" onclick="changevid('nicsdemoFeb2014small')">NICS Demo</div>
+		<div class="tabHeading" onclick="changevid('nicsdemoFeb2014small')">SCOUT Demo</div>
 	</td>
 	<td width="350px">
 		<div class="tabHeading" onclick="changevid('data')">Data Layers</div>
@@ -146,7 +146,7 @@ pages of the site, as well as other videos of NICS shown in the field.</p>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

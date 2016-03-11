@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>NICS in the News - NICS Help</title>
+<title>SCOUT in the News - SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="includes/favicon.ico" rel="shortcut icon" />
 <link href="includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="includes/search.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -50,11 +50,11 @@
 <table class="body">
 <tr>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/contents.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/contents.php'; ?>
 
 <td class="content">
 <div class="mainarea">
-<h1>NICS in the News</h1>
+<h1>SCOUT in the News</h1>
 
 <ul>
 <li><a href="http://www.fox5sandiego.com/videobeta/a2f59c90-821f-4e8f-93e2-1e4f4cd2a85b/News/Inside-Cal-Fire-s-Eagle-Fire-Command-Post" target="_blank">
@@ -65,7 +65,7 @@ Eagle Fire: Fox 5 San Diego</a> (July 2011)</li>
 
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>The NICS Help Site ^ NICS Help</title>
+<title>The SCOUT Help Site ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -57,9 +57,9 @@
 <td class="content">
 <div class="mainarea">
 
-<h1><u>The NICS Help Site</u></h1>
+<h1><u>The SCOUT Help Site</u></h1>
 
-<p>Hello and welcome to the NICS Help Site.  The purpose of this site is to familiarize new users with the NICS application and provide a quick reference to selected topics. 
+<p>Hello and welcome to the SCOUT Help Site.  The purpose of this site is to familiarize new users with the SCOUT application and provide a quick reference to selected topics. 
 Throughout the tutorial, you will be provided with <a target="_top" href="../videolibrary.php">videos</a> and diagrams intended to increase your familiarity with the interface.</p>
 
 <p>For additional help and questions about the site, please visit the 
@@ -69,7 +69,7 @@ Throughout the tutorial, you will be provided with <a target="_top" href="../vid
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

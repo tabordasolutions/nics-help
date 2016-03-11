@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Data Layers ^ NICS Help</title>
+<title>Data Layers ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -92,8 +92,8 @@ Layers are turned on and off by checking and unchecking boxes next to their name
 You may also shut off all data layers by clicking the "Turn Off All Layers" button 
 at the bottom of the drop down menu.</p>
 
-<p>Data layers are organized in a tree file structure. In addition to NICS providing 
-some general layers to every incident, NICS also creates an “incident folder” for each 
+<p>Data layers are organized in a tree file structure. In addition to SCOUT providing 
+some general layers to every incident, SCOUT also creates an “incident folder” for each 
 newly created incident that has any unique data for that incident.  This can be found 
 in a folder with the incident’s name in the UPLOAD folder.  Furthermore, it is possible 
 for authorized users to upload data from other sources, such as those listed in the Virtual Library. </p>
@@ -120,7 +120,7 @@ creates new data layers in the "Upload" folder.</p>
 <h3><span class="bu">Tracking Layers:</span></h3>
 
 <b>Tracking</b> layers, unlike data layers, are very dynamic and designed specifically 
-to allow the mapping/plotting of GPS-enabled devices within NICS.  These are usually based upon near-real 
+to allow the mapping/plotting of GPS-enabled devices within SCOUT.  These are usually based upon near-real 
 time data feeds from instrumented vehicles, aircraft, apparatus, and personnel, also called Automated 
 Vehicle Location (AVL), Automated Flight Following (AFF) and Personal Location Information (PLI).  Some 
 uses for Tracking layers are for managing units in a field, following a moving target, or just marking 
@@ -145,7 +145,7 @@ conditions. They can be turned on and off from the weather menu in the upper rig
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

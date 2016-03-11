@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Documents - NICS Help</title>
+<title>Documents - SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="includes/favicon.ico" rel="shortcut icon" />
 <link href="includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="includes/search.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -50,39 +50,39 @@
 <table class="body">
 <tr>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/contents.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/contents.php'; ?>
 
 <td class="content">
 <div class="mainarea">
-<h1><u>NICS Documents</u></h1>
+<h1><u>SCOUT Documents</u></h1>
 
 <ul>
-<li><a href="documents/NICS Presentation-14Mar14.pdf">NICS Tutorial slides</a></li>
-<li><a href="documents/NICS Talking Points-12May12.pdf">NICS Talking Points</a> - 2012</li>
-<li><a href="documents/SARApp for NICS Install and Settings Guide - Android (v1.3.1).pdf">SARApp for NICS Install and Settings Guide - Android (v1.3.1)</a></li>
-<li><a href="documents/SARApp for NICS Install and Settings Guide - iOS (v1.3.1).pdf">SARApp for NICS Install and Settings Guide - iOS (v1.3.1)</a></li>
-<li><a href="documents/NICS FAQs-22Jan14.pdf">NICS FAQ</a></li>
+<li><a href="documents/SCOUT Presentation-14Mar14.pdf">SCOUT Tutorial slides</a></li>
+<li><a href="documents/SCOUT Talking Points-12May12.pdf">SCOUT Talking Points</a> - 2012</li>
+<li><a href="documents/SARApp for SCOUT Install and Settings Guide - Android (v1.3.1).pdf">SARApp for SCOUT Install and Settings Guide - Android (v1.3.1)</a></li>
+<li><a href="documents/SARApp for SCOUT Install and Settings Guide - iOS (v1.3.1).pdf">SARApp for SCOUT Install and Settings Guide - iOS (v1.3.1)</a></li>
+<li><a href="documents/SCOUT FAQs-22Jan14.pdf">SCOUT FAQ</a></li>
 </ul>
 
 <p>Video Downloads</p>
 <p>Right Click > Save As...</p>
 <ul>
 <li><a href="videos/nicsdemo_short.mp4">
-<b>[VIDEO]</b> NICS 4 Minute Overview</a> (July 2011)</li>
+<b>[VIDEO]</b> SCOUT 4 Minute Overview</a> (July 2011)</li>
 </ul>
 
 <p><h3>Guidelines and Best Practices</h3></p>
 <ul>
-<li><a href="documents/NICS_GL_4_14.pdf">Fire & Rescue – Emergency Operations</a></li>
+<li><a href="documents/SCOUT_GL_4_14.pdf">Fire & Rescue – Emergency Operations</a></li>
 </ul>
 
 <p><h3>Software Specifications</h3></p>
 <ul>
 <li>Automatic Vehicle Location (AVL) / Position Location Information (PLI)</li>
 <li style="list-style-type:none"><ul>
-<li><a href="documents/Guidance for NICS PLI Ingest - JSON - v2.2.pdf">JSON Datafeed</a></li>
-<li><a href="documents/Guidance for NICS PLI Ingest - KML - v2.pdf">KML Datafeed</a></li>
-<li><a href="documents/Guidance for NICS GpsGate v2.pdf">GpsGate Application</a></li>
+<li><a href="documents/Guidance for SCOUT PLI Ingest - JSON - v2.2.pdf">JSON Datafeed</a></li>
+<li><a href="documents/Guidance for SCOUT PLI Ingest - KML - v2.pdf">KML Datafeed</a></li>
+<li><a href="documents/Guidance for SCOUT GpsGate v2.pdf">GpsGate Application</a></li>
 <li><a href="documents/2013-02-05 - GPS Responder Overview v2.pdf">GPSResponder Application</a></li>
 </ul>
 </li></ul>
@@ -92,7 +92,7 @@
 
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

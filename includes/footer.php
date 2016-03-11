@@ -29,11 +29,11 @@
  */
 <div class="footer">
 <p>
-NICS Help
+SCOUT Help
 <br />
-<a href="/nicshelp" target="_top">Help Home</a> - 
-<a href="/nicshelp/help.php" target="_top">Troubleshooting</a> - 
-<a href="/nicshelp/videolibrary.php" target="_top">Video Library</a> - 
-<a href="/" target="_blank">NICS</a>
+<a href="/scouthelp" target="_top">Help Home</a> - 
+<a href="/scouthelp/help.php" target="_top">Troubleshooting</a> - 
+<a href="/scouthelp/videolibrary.php" target="_top">Video Library</a> - 
+<a href="/" target="_blank">SCOUT</a>
 </p>
 </div>

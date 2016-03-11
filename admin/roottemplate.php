@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>TITLE - NICS Help</title>
+<title>TITLE - SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="includes/favicon.ico" rel="shortcut icon" />
 <link href="includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="includes/search.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -50,13 +50,13 @@
 <table class="body">
 <tr>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/contents.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/contents.php'; ?>
 
 <td class="content">
 <div class="mainarea">
 <h1>ROOT Template</h1>
 
-<p>Use this on ROOT pages, that is to say in /nicshelp/.</p>
+<p>Use this on ROOT pages, that is to say in /scouthelp/.</p>
 <!----------------------------------
 ------------------------------------
 ------------------------------------
@@ -77,7 +77,7 @@
 
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

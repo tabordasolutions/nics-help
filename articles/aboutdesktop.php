@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Desktop Overview ^ NICS Help</title>
+<title>Desktop Overview ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -59,22 +59,22 @@
 
 <h1><u>Desktop Overview</u></h1>
 
-<p>The NICS Desktop has been designed to provide users a very simple to use space to gather, 
+<p>The SCOUT Desktop has been designed to provide users a very simple to use space to gather, 
 organize, create, collaborate, and share information with others. </p>
 
 <p>Current map base layers are provided by Google Maps (physical, satellite, hybrid, and 
 streets), Open Street Maps (street), US Topo 7.5 min. Quadrangle Maps, and FAA Sectional Aeronautical Charts.</p>
 
 <div class="figure">
-<img class="main" src="../images/Incident-basic graphics w draw tools.jpg" alt="map interface in NICS" />
-<p>The NICS Desktop Interface</p>
+<img class="main" src="../images/Incident-basic graphics w draw tools.jpg" alt="map interface in SCOUT" />
+<p>The SCOUT Desktop Interface</p>
 </div>
 
 </div></td>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

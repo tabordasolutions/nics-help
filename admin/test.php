@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>TITLE - NICS Help</title>
+<title>TITLE - SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -19,8 +19,8 @@
             "data='http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf' width='640' height='360'>" +
 			"<param name='movie' value='http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf' />" +
 			"<param name='flashVars' value=\"config={\name" +
-			"'playlist':['http://127.0.0.1/nicshelp/videos/" + name +
-			".jpg',{'url':'http://127.0.0.1/nicshelp/videos/" + name +
+			"'playlist':['http://127.0.0.1/scouthelp/videos/" + name +
+			".jpg',{'url':'http://127.0.0.1/scouthelp/videos/" + name +
 			".mp4','autoPlay':false}], 'plugins':{'controls':{'fullscreen':false}}" +
 			"}\" /></object></video>";
     }
@@ -31,7 +31,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/docheader.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/docheader.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -90,7 +90,7 @@
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -1,17 +1,17 @@
 <div id="header"><div id="headerbr"><div id="headerbl">
 <table>
 <tr>
-<td><div style="margin:2px;"><a href="/nicshelp">
-<img alt="Help Home" src="/nicshelp/images/NICS.png" height="32" />
+<td><div style="margin:2px;"><a href="/scouthelp">
+<img alt="Help Home" src="/scouthelp/images/SCOUT.png" height="32" />
 </a></div></td>
 <td><div style="height:30px"><h2>
-<a class="main" href="/nicshelp">NICS Help</a>
+<a class="main" href="/scouthelp">SCOUT Help</a>
 </h2></div></td>
 <td>
 <div id="searcharea">
 <table><tr>
 <td><h6>Search</h6></td>
-<td><form name="searchform" onsubmit="return validatesearch()" method="get" action="/nicshelp/search.php">
+<td><form name="searchform" onsubmit="return validatesearch()" method="get" action="/scouthelp/search.php">
 <input type="text" name="helpquery" style="width:250px;" value="<?php echo @$_GET['helpquery']; ?>" />
 <input type="submit" value="Search" />
 </form></td>
@@ -57,7 +57,7 @@ function pagevideo($videoname,$exists){
 		<object type='application/x-shockwave-flash' data='http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf' width='640' height='360'>
 			<param name='movie' value='http://releases.flowplayer.org/swf/flowplayer-3.2.7.swf' />
 			<param name='flashVars' value=\"config={
-			'playlist':['http://$_SERVER[SERVER_ADDR]/nicshelp/videos/$picture',{'url':'http://$_SERVER[SERVER_ADDR]/nicshelp/videos/$videoname.mp4','autoPlay':false}],
+			'playlist':['http://$_SERVER[SERVER_ADDR]/scouthelp/videos/$picture',{'url':'http://$_SERVER[SERVER_ADDR]/scouthelp/videos/$videoname.mp4','autoPlay':false}],
 			'plugins':{'controls':{'fullscreen':false}}
 			}\" />
 		</object>

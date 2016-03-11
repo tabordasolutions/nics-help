@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Troubleshooting and FAQ ^ NICS Help</title>
+<title>Troubleshooting and FAQ ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -63,7 +63,7 @@
     <td><strong>Help</strong></td>
   </tr>
   <tr>
-    <td width="197">Where do I get the NICS mobile application?</td>
+    <td width="197">Where do I get the SCOUT mobile application?</td>
     <td width="461">You can download it from <a href="http://public.nics.ll.mit.edu/app/NICSMobile.apk" target="_blank">http://public.nics.ll.mit.edu/app/NICSMobile.apk</a></td>
   </tr>
   <tr>
@@ -88,10 +88,10 @@
   </tr>
   <tr>
     <td>How do I know what version of the application I'm using?</td>
-    <td>You can either check under settings&gt;application manager&gt;NICS and look at the top or you can ensure that the application has exited by using the application manager to force-stop the application (or restart your device). The splash screen will briefly show you the version.</td>
+    <td>You can either check under settings&gt;application manager&gt;SCOUT and look at the top or you can ensure that the application has exited by using the application manager to force-stop the application (or restart your device). The splash screen will briefly show you the version.</td>
   </tr>
   <tr>
-    <td>Can I run SARapp and NICS at the same time?</td>
+    <td>Can I run SARapp and SCOUT at the same time?</td>
     <td>Yes</td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

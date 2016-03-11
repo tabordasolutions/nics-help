@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Map Help ^ NICS Help</title>
+<title>Map Help ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -75,7 +75,7 @@
     <td><img src="../images/map.png" alt="map" width="640" height="400" /></td>
   </tr>
   <tr>
-    <td><p>The NICS mobile application supports a subset of map types including satellite, hybrid (satellite and normal street view), terrain, traffic and indoor (if available). Please note that some map types will load faster than others and may impact your overall performance and data usage.</p>
+    <td><p>The SCOUT mobile application supports a subset of map types including satellite, hybrid (satellite and normal street view), terrain, traffic and indoor (if available). Please note that some map types will load faster than others and may impact your overall performance and data usage.</p>
     <p>To choose a different map select map type from the upper right drop down and choose the desired display. </p></td>
     <td><img src="../images/map_types.png" alt="mapTypes" width="640" height="400" /></td>
   </tr>
@@ -101,7 +101,7 @@
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

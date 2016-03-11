@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>NICS Help Home</title>
+<title>SCOUT Help Home</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="includes/favicon.ico" rel="shortcut icon" />
 <link href="includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
@@ -57,8 +57,8 @@
 <body>
 <div id="mainheader"><div id="mainheaderbr"><div id="mainheaderbl">
 <table style="padding-top:5px"><tr>
-<td><a href="/nicshelp">
-<img style="height:100px" alt="Help Home" src="images/NICS.png" /><!-- lllogo.png -->
+<td><a href="/scouthelp">
+<img style="height:100px" alt="Help Home" src="images/SCOUT.png" /><!-- lllogo.png -->
 </a></td>
 <td><div>
 <h1 style="font-size:28pt;margin:0">Next Generation Incident<br />Command System Help
@@ -71,7 +71,7 @@
 <table>
 <tr>
 <td id="sidebar">
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/contents.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/contents.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -110,8 +110,8 @@
 <!-- Getting rid of 5.2 changes banner
 <div id="Announce" style="background-color:#CCCCFF">
 <h1 style="text-align:center;margin:10px;color:#CC0000">NEW: 
-<a href="documents/NICS 5-2 Announcement Doc v3.pdf" style="color:Blue">
-NICS 5.2 Update Changes!</a></h1>
+<a href="documents/SCOUT 5-2 Announcement Doc v3.pdf" style="color:Blue">
+SCOUT 5.2 Update Changes!</a></h1>
 </div>
 -->
 
@@ -159,7 +159,7 @@ for quick tutorial and reference video clips!</h3>
 
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

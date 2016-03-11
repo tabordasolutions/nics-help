@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Documentation - NICS Help</title>
+<title>Documentation - SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/search.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/docheader.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/docheader.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -50,7 +50,7 @@
 <table>
 <tr>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/contents.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/contents.php'; ?>
 
 <td class="content">
 <div class="mainarea">
@@ -103,15 +103,15 @@ The header spans the full 960px.</p>
 <p>I used tables to style because (no good reason). Ideally I should
 move everything to divs</p>
 <p>Javascript is used to create the active sidebar on articles; we are 
-working under the assumption that as users of NICS, javascript is 
+working under the assumption that as users of SCOUT, javascript is 
 enabled on the client browser.</p>
 <p>PHP is used to include most headers and footers, as well as static 
 sidebars. It also runs the search function. PHP must be installed on 
 the server.</p>
 <p>Navigation is propogated mainly through the side bar. You can 
-return to the home page at any time by clicking on the text "NICS 
+return to the home page at any time by clicking on the text "SCOUT 
 Help" or the LLLogo in the header. You may also navigate home in the 
-footer, along with to the actual NICS application and the video 
+footer, along with to the actual SCOUT application and the video 
 library site. Search is provided on all pages.</p>
 <p>All resources that aren't explicitly noted for location are in the 
 "admin" folder.</p>
@@ -310,7 +310,7 @@ streaming to any source. We will capture from the screen:\\ source
 and stream it to a file. Because VLC utilizes ffmpeg, we may encode 
 the raw video into a variety of file types.</p>
 <p>When recording, I used <a target="_blank" href="../images/vlcref.png">
-firefox 4[PIC]</a> running NICS on one tab. Dimensions required for 
+firefox 4[PIC]</a> running SCOUT on one tab. Dimensions required for 
 cropping may need to be changed depending on the way the browser 
 displays the appplication, and the screen resolution of the 
 computer. The code given below crops for the region in red given 
@@ -328,7 +328,7 @@ the coordinates of the top left corner of cropped area.</p>
 <b>OUT: 1024x576 400kbps webm</b>
 <p><code>ffmpeg -i INPUT.mp4 -sameq -vf crop=1902:1050:0:90 -an -y 
 sizeme.mp4</code><br />
-^Crop out the fullscreen NICS interface<br />
+^Crop out the fullscreen SCOUT interface<br />
 <code>ffmpeg -i sizeme.mp4 -sameq -s 1024x576 -y INTER.y4m</code><br />
 ^resize and output to raw for vpxenc<br />
 <code>vpxenc --passes=2 --cpu-used=1 --threads=4 --best --kf-max-dist=24
@@ -456,7 +456,7 @@ This gives the first frame of a movie in jpg. Use <code>
 
 <h2 id="5">Search Bar</h2>
 <p>Search is a key component of any help page. However it may not be 
-necessary for NICS due to its simplistic nature (tired-dirty-hungry). 
+necessary for SCOUT due to its simplistic nature (tired-dirty-hungry). 
 as long as the amount of help remains down to a minimum and is 
 displayable in a small sidebar as in to the left right now, then 
 search is not an urgent feature.</p>
@@ -477,7 +477,7 @@ here</a>.</p>
 <h2 id="6">Video Share Site</h2>
 <p>Where all videos will be hosted, and where users may add their 
 own videos to either data layers with geolocation, or their own 
-tutorial videos of neat tricks they have found in NICS.</p>
+tutorial videos of neat tricks they have found in SCOUT.</p>
 <p>Probably run in php.</p>
 
 <a href="#top">^Back to Top</a><hr />
@@ -559,7 +559,7 @@ discard all but the smallest file size of the results</li>
 
 <!-- end content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

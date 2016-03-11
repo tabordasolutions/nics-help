@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Incident and Room Help ^ NICS Help</title>
+<title>Incident and Room Help ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -66,7 +66,7 @@
     <td><img src="../images/join_incident.png" alt="joinIncident" width="640" height="400" /></td>
   </tr>
   <tr>
-    <td>Note: if you do not see the incident you want then it is possible that you have selected the wrong workspace (Training vs. Incident) or the wrong server entirely. In this case the best thing is to log out and select a different workspace or server. Another option is that your incident has been archived. Please log into NICS through the web UI to verify.</td>
+    <td>Note: if you do not see the incident you want then it is possible that you have selected the wrong workspace (Training vs. Incident) or the wrong server entirely. In this case the best thing is to log out and select a different workspace or server. Another option is that your incident has been archived. Please log into SCOUT through the web UI to verify.</td>
     <td><img src="../images/select_incident.png" alt="selectIncident" width="640" height="400" /></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@
     <td><img src="../images/select_room.png" alt="selectRoom" width="640" height="400" /></td>
   </tr>
   <tr>
-    <td><p>Once a room is selected the room name is displayed at the top, above the chat and map buttons.This is the main display for the NICS mobile application. </p>
+    <td><p>Once a room is selected the room name is displayed at the top, above the chat and map buttons.This is the main display for the SCOUT mobile application. </p>
     <p>The chat button will enable you to chat with other users, mobile and web UI, in the selected collaboration room.</p>
     <p>The map button will display the whiteboard markup from the collaboration room that has been selected.</p></td>
     <td><img src="../images/main.png" alt="main" width="640" height="400" /></td>
@@ -93,7 +93,7 @@
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

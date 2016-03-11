@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Chat ^ NICS Help</title>
+<title>Chat ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -59,7 +59,7 @@
 
 <h1><u>Chat</u></h1>
 
-<p>Another way to communicate in NICS is through text-based chat. This works like text messaging 
+<p>Another way to communicate in SCOUT is through text-based chat. This works like text messaging 
 and other forms of chat most people use daily.  There are two kinds of chat:  Public and Private.  </p>
 
 <p><span class="bu">Both types of chat are permanently recorded. 
@@ -107,7 +107,7 @@ that can only be seen by those who have been invited to join.</p>
 <p><span class="bu">However, like Public Chat, Private Chat is permanent.  This text is PART OF THE HISTORICAL 
 RECORD and official data.  It needs to be used prudently.  </span></p>
 
-<p>Private Chat can occur between any two or more users logged into NICS……they do not have to be in the same room as they do for Public Chat.</p>
+<p>Private Chat can occur between any two or more users logged into SCOUT……they do not have to be in the same room as they do for Public Chat.</p>
 
 <p>To start a Private Chat session, open the side panel.</p>
 
@@ -151,7 +151,7 @@ get an acceptance if they elect to join.</p>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Types of NICS Users ^ NICS Help</title>
+<title>Types of SCOUT Users ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -57,14 +57,14 @@
 
 <td class="content">
 <div class="mainarea">
-<h1><u>Types of NICS Users </u></h1>
+<h1><u>Types of SCOUT Users </u></h1>
 
-<p>There are currently five separate classes of users in NICS:</p>
-<p><i>Super User</i> – This is the role reserved for NICS developers and programmers.</p>
-<p><i>Organization Administrator</i> - This is the individual (or group of individuals) in each organization that manages that organization’s membership in NICS, keeps contact information up-to-date, and supervises orientation and training of NICS.  Initially this role might be performed by someone not in the organization as the organization is getting started with NICS.  As the organization’s involvement grows, an Organization Administrator will be identified.</p>
+<p>There are currently five separate classes of users in SCOUT:</p>
+<p><i>Super User</i> – This is the role reserved for SCOUT developers and programmers.</p>
+<p><i>Organization Administrator</i> - This is the individual (or group of individuals) in each organization that manages that organization’s membership in SCOUT, keeps contact information up-to-date, and supervises orientation and training of SCOUT.  Initially this role might be performed by someone not in the organization as the organization is getting started with SCOUT.  As the organization’s involvement grows, an Organization Administrator will be identified.</p>
 <p><i>GIS Administrator</i> – This is an individual that works with GIS databases and has been assigned the duties of uploading data layers as appropriate for given incidents as well as general use.</p>
-<p><i>NICS User:  Read, Copy, & Write </i>– This user can view all open rooms, copy material from those rooms for pasting into other locations (as permitted), and generate content (write) into authorized rooms, such as generating graphics and text.</p>
-<p><i>NICS User: Read & Copy Only</i> – This user can view selected open rooms (e.g., the Incident Map) and copy material from these rooms for pasting into My Map.  </p>
+<p><i>SCOUT User:  Read, Copy, & Write </i>– This user can view all open rooms, copy material from those rooms for pasting into other locations (as permitted), and generate content (write) into authorized rooms, such as generating graphics and text.</p>
+<p><i>SCOUT User: Read & Copy Only</i> – This user can view selected open rooms (e.g., the Incident Map) and copy material from these rooms for pasting into My Map.  </p>
 <p>Their permissions are listed in the table below:</p>
 
 <div class="figure">
@@ -76,7 +76,7 @@
 <th>Upload Layers</th>
 <th>Organize Folders</th>
 <th>Administer An Organization</th>
-<th>Administer NICS</th>
+<th>Administer SCOUT</th>
 </tr>
 <tr></tr><tr></tr><tr></tr>
 <tr>
@@ -92,11 +92,11 @@
 </tr>
 <tr></tr><tr></tr><tr></tr>
 <tr>
-<th>NICS User: Read, Copy, & Write</th><td>X</td><td>X</td>
+<th>SCOUT User: Read, Copy, & Write</th><td>X</td><td>X</td>
 </tr>
 <tr></tr><tr></tr><tr></tr>
 <tr>
-<th>NICS User: Read & Copy Only</th><td>X</td>
+<th>SCOUT User: Read & Copy Only</th><td>X</td>
 </tr>
 </table>
 <p>Table of Privileges</p>
@@ -104,12 +104,12 @@
 
 <u>Definitions:</u>
 <ul>
-<li>View Rooms: View a room through the NICS web interface.</li>
+<li>View Rooms: View a room through the SCOUT web interface.</li>
 <li>Edit Rooms: Draw and Erase features in the room;  modify content.</li>
 <li>Upload Layers: Access to the “Upload Tool.”</li>
 <li>Organize Folders: "Right click" functionality to reorganize the data layer directory structure.</li>
 <li>Administer An Organization: Access to the administrative interface. </li>
-<li>Administer NICS: Access to the NICS administrative/development interface.</li>
+<li>Administer SCOUT: Access to the SCOUT administrative/development interface.</li>
 </ul>
 
 
@@ -123,7 +123,7 @@
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

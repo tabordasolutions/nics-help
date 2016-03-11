@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Video Outlines - NICS Help</title>
+<title>Video Outlines - SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/search.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/docheader.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/docheader.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -50,15 +50,15 @@
 <table class="body">
 <tr>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/contents.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/contents.php'; ?>
 
 <td class="content">
 <div class="mainarea">
 <h1>Video Outlines</h1>
 
 <h2>Incidents and Rooms</h2>
-<p>NICS uses a 2 level structure to organize its workspaces between 
-users. When you first log into NICS, you are not a member of any 
+<p>SCOUT uses a 2 level structure to organize its workspaces between 
+users. When you first log into SCOUT, you are not a member of any 
 workspaces.</p>
 <p>To join one, open the incidents menu from the main 
 bar, and choose one from the drop down list. Notice how the incident 
@@ -84,7 +84,7 @@ name. Finally, you can also hide and show the side and chat panels by
 clicking on their respective bars.</p>
 
 <h2>Main Toolbar</h2>
-<p>Most manipulations in NICS can be accessed from the main toolbar. 
+<p>Most manipulations in SCOUT can be accessed from the main toolbar. 
 Drag/Select similar, but can pan map with drag</p>
 <p>SKIP FOUR, talk about in other video. Then undo redo copy paste</p>
 
@@ -97,7 +97,7 @@ users.</p>
 
 <h2>Drawing</h2>
 <p>Drawing on the map is the fastest and easiest way to distribute 
-situational awareness to users of the NICS system.</p>
+situational awareness to users of the SCOUT system.</p>
 <p>Stamp/rotate, then polygon, then pen thickness</p>
 
 <h2>Object Manipulation</h2>
@@ -146,7 +146,7 @@ copy paste functionality</p>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

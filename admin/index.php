@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Documents - NICS Help</title>
+<title>Documents - SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/search.js" type="text/javascript"></script>
@@ -20,7 +20,7 @@ alterable in the .htpasswd file
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/docheader.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/docheader.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -55,7 +55,7 @@ alterable in the .htpasswd file
 <table class="body">
 <tr>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/contents.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/contents.php'; ?>
 
 <td class="content">
 <div class="mainarea">
@@ -79,13 +79,13 @@ build this website.</p>
 <li><a href="../includes" target="_top">Includes</a></li>
 <li><a href="../docuements" target="_top">Documents</a></li>
 </ul>
-<p>Alternatively, you may <a href="/nicshelp" target="_top">return home</a></p>
+<p>Alternatively, you may <a href="/scouthelp" target="_top">return home</a></p>
 </div></td>
 </tr></table>
 
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

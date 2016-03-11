@@ -31,16 +31,16 @@
 <table>
 <tr>
 <td><div style="margin:2px;"><a href="index.php">
-<img alt="Help Home" src="/nicshelp/images/NICS.png" height="32" />
+<img alt="Help Home" src="/scouthelp/images/SCOUT.png" height="32" />
 </a></div></td>
 <td><div style="height:30px"><h2>
-<a class="main" href="index.php">NICS Docs</a>
+<a class="main" href="index.php">SCOUT Docs</a>
 </h2></div></td>
 <td>
 <div id="searcharea">
 <table><tr>
 <td><h6>Search</h6></td>
-<td><form name="searchform" onsubmit="return validatesearch()" method="get" action="/nicshelp/search.php">
+<td><form name="searchform" onsubmit="return validatesearch()" method="get" action="/scouthelp/search.php">
 <input type="text" name="helpquery" style="width:250px;" />
 <input type="submit" value="Search" />
 </form></td>

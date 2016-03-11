@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>First Steps in NICS ^ NICS Help</title>
+<title>First Steps in SCOUT ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -57,11 +57,11 @@
 
 <td class="content">
 <div class="mainarea">
-<h1><u>First Steps In NICS</u></h1>
+<h1><u>First Steps In SCOUT</u></h1>
 
-<p>Welcome to the Next-Generation Incident Command System (NICS). 
+<p>Welcome to the Next-Generation Incident Command System (SCOUT). 
 Before we get started, please take the time to familiarize yourself 
-with the following important capabilities available any time you are logged into NICS.</p>
+with the following important capabilities available any time you are logged into SCOUT.</p>
 
 <h3><span class="bu">Update User Profile</span></h3>
 
@@ -78,8 +78,8 @@ information.  Press SUBMIT to save the changes.</p>
 </div>
 
 <h3><span class="bu">Send Error Reports</span></h3>
-<p>If you encounter any problems where NICS is not performing properly, 
-notify the NICS Development Team by using the TOOLS => EMAIL ERROR REPORT function.  
+<p>If you encounter any problems where SCOUT is not performing properly, 
+notify the SCOUT Development Team by using the TOOLS => EMAIL ERROR REPORT function.  
 Describe the problem in as much detail as you can.</p>
 
 <div class="figure">
@@ -91,7 +91,7 @@ Describe the problem in as much detail as you can.</p>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

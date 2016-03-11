@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Download and Login Help ^ NICS Help</title>
+<title>Download and Login Help ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -50,19 +50,19 @@
 <table width="200" border="1">
   <tr>
     <td><div style="width: 325px" ><strong>Download and Login Help</strong></div>
-      <p>Download the NICS Android mobile application from the NICS server at: <a href="http://public.nics.ll.mit.edu/app/NICSMobile.apk" target="_blank">http://public.nics.ll.mit.edu/app/NICSMobile.apk</a></p>
-      <p>Download the NICS Apple mobile application from the Apple Appstore at: <a href="https://itunes.apple.com/us/app/nics-mobile/id985324130?mt=8" target="_blank">https://itunes.apple.com/us/app/nics-mobile/id985324130?mt=8</a></p>
+      <p>Download the SCOUT Android mobile application from the SCOUT server at: <a href="http://public.nics.ll.mit.edu/app/NICSMobile.apk" target="_blank">http://public.nics.ll.mit.edu/app/NICSMobile.apk</a></p>
+      <p>Download the SCOUT Apple mobile application from the Apple Appstore at: <a href="https://itunes.apple.com/us/app/nics-mobile/id985324130?mt=8" target="_blank">https://itunes.apple.com/us/app/nics-mobile/id985324130?mt=8</a></p>
       <p>Printable PDF with QR Codes for Apple and Android Apps for ICP display <a href="http://public.nics.ll.mit.edu/nicshelp/documents/NICS_MobileAppDownload.pdf" target="_blank">http://public.nics.ll.mit.edu/app/NICS_MobileAppDownload.pdf</a></p>
     <p>The best way to do this is to copy and paste this link in an email to the mobile device you intent to install the application on. </p>
     <p>It is also important to ensure that your phone settings allow the installation of 3rd party applications.</p>
-    <p>Please  remember that NICS Mobile requires a valid email account username (legacy NICS  usernames that are not email addresses will not work).</p>
+    <p>Please  remember that SCOUT Mobile requires a valid email account username (legacy SCOUT  usernames that are not email addresses will not work).</p>
     <p>Also note that these screen shots were taken with a Samsung Galaxy Tablet, your aspect ratio may make the displays seem slightly different.</p></td>
     <td><img src="../images/phone_settings.png" alt="phonesettings" width="640" height="399" /></td>
   </tr>
   <tr>
     <td><p>Once the application is downloaded and installed you will find it in your applications. Feel free to drag the icon to a more accessible location, such as your main display.</p>
     <p>If you are re-installing or installing a new version of the application it is best practice to uninstall the older version. If you do not do this it may cause a crash on loading the new application.</p>
-    <p>If you are not certain which version you have you can find out by going to your phone settings and selecting NICS from the list under Application Manager. The version is provided at the top.</p></td>
+    <p>If you are not certain which version you have you can find out by going to your phone settings and selecting SCOUT from the list under Application Manager. The version is provided at the top.</p></td>
     <td><img src="../images/desktop.png" alt="desktop" width="640" height="400" /></td>
   </tr>
   <tr>
@@ -70,12 +70,12 @@
     <td><img src="../images/welcome.png" alt="welcome" width="640" height="400" /></td>
   </tr>
   <tr>
-    <td><p>As previously mentioned, the NICS mobile application requires a valid login with email address.</p>
+    <td><p>As previously mentioned, the SCOUT mobile application requires a valid login with email address.</p>
     <p>Enter your user name and password. </p>
     <p>If this is your personal device it is recommended that you check &quot;remember username&quot;.</p>
-    <p>If you typically frequent the same NICS server then check &quot;automatically login&quot;.</p>
+    <p>If you typically frequent the same SCOUT server then check &quot;automatically login&quot;.</p>
     <p>Select which workspace you wish to log into: Incident (for actual events) or Training (for testing and training). </p>
-    <p>Note if you do NOT wish to log into the NICS Production server hosted at the San Diego Super Computer Center in CA, you may select a different server by selecting the wrench icon in the upper right.</p></td>
+    <p>Note if you do NOT wish to log into the SCOUT Production server hosted at the San Diego Super Computer Center in CA, you may select a different server by selecting the wrench icon in the upper right.</p></td>
     <td><img src="../images/login.png" alt="logon" width="640" height="400" /></td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@
 <p>&nbsp; </p>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

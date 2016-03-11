@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Main Toolbar ^ NICS Help</title>
+<title>Main Toolbar ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -61,7 +61,7 @@
 
 <p>The main toolbar is always accessible unless you have 
 <a target="_top" href="windows.php#hide">hidden all windows</a> on the screen. 
-It contains links to all the most common map manipulation and drawing features of NICS.</p>
+It contains links to all the most common map manipulation and drawing features of SCOUT.</p>
 
 <div class="figure">
 <img class="main" width="400px" src="../images/Main Toolbar-final-6Sep12.jpg" alt="The main toolbar" />
@@ -88,7 +88,7 @@ any objects that are selected. </p>
 found <a target="_top" href="drawing.php">here</a>.</p>
 
 
-<p>The <i>Apps</i> button opens a list of applications available within NICS.  This 
+<p>The <i>Apps</i> button opens a list of applications available within SCOUT.  This 
 is similar to the highly successful “App Store” model of other platforms like smartphone and tablet vendors.</p>
 
 
@@ -110,7 +110,7 @@ and then select Copy and Paste.
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

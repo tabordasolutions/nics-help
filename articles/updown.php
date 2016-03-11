@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Import/Export GIS Files ^ NICS Help</title>
+<title>Import/Export GIS Files ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -59,12 +59,12 @@
 
 <h1><u>Importing and Exporting GIS Files</u></h1>
 
-<p> GIS data is used in many different applications. NICS has a 
+<p> GIS data is used in many different applications. SCOUT has a 
 function to import and export GIS data.</p>
 
 <p><span class="bu">Importing GIS Data:  </span></p>
 
-<p>Files can be uploaded to the NICS server from other GIS databases, 
+<p>Files can be uploaded to the SCOUT server from other GIS databases, 
 but that capability is currently limited to selected administrators.  
 However, once uploaded, these data layers can be accessed via the DATA 
 pull down menu.  Below is a sample of many of these layers.  Note that 
@@ -100,7 +100,7 @@ Get Room Info and copy the URL from the popup window.</p>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

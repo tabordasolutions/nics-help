@@ -29,46 +29,46 @@
  */
 <td class="sidebar">
 <h3>Getting Started</h3>
-<a href="/nicshelp/articles/abouthelp.php" target="_top">The NICS Application Help Site</a><br />
-<a href="/nicshelp/articles/about.php" target="_top">About NICS</a><br />
-<a href="/nicshelp/articles/frontpage.php" target="_top">NICS Home Page</a><br />
-<a href="/nicshelp/articles/firststeps.php" target="_top">First Steps in NICS</a><br />
-<a href="/nicshelp/articles/incidents.php" target="_top">Incidents and Rooms</a><br />
-<a href="/nicshelp/articles/windows.php" target="_top">Windows and Panels</a><br />
-<a href="/nicshelp/articles/toolbar.php" target="_top">Main Toolbar</a><br />
+<a href="/scouthelp/articles/abouthelp.php" target="_top">The SCOUT Application Help Site</a><br />
+<a href="/scouthelp/articles/about.php" target="_top">About SCOUT</a><br />
+<a href="/scouthelp/articles/frontpage.php" target="_top">SCOUT Home Page</a><br />
+<a href="/scouthelp/articles/firststeps.php" target="_top">First Steps in SCOUT</a><br />
+<a href="/scouthelp/articles/incidents.php" target="_top">Incidents and Rooms</a><br />
+<a href="/scouthelp/articles/windows.php" target="_top">Windows and Panels</a><br />
+<a href="/scouthelp/articles/toolbar.php" target="_top">Main Toolbar</a><br />
 <h3>Desktop</h3>
-<a href="/nicshelp/articles/aboutdesktop.php" target="_top">Desktop Overview</a><br />
-<a href="/nicshelp/articles/navigation.php" target="_top">Navigating the Map</a><br />
-<a href="/nicshelp/articles/drawing.php" target="_top">Drawing</a><br />
-<a href="/nicshelp/articles/data.php" target="_top">Data Layers</a><br />
-<!--<a href="/nicshelp/articles/lock.php" target="_top">Locking the Room</a><br />-->
+<a href="/scouthelp/articles/aboutdesktop.php" target="_top">Desktop Overview</a><br />
+<a href="/scouthelp/articles/navigation.php" target="_top">Navigating the Map</a><br />
+<a href="/scouthelp/articles/drawing.php" target="_top">Drawing</a><br />
+<a href="/scouthelp/articles/data.php" target="_top">Data Layers</a><br />
+<!--<a href="/scouthelp/articles/lock.php" target="_top">Locking the Room</a><br />-->
 <h3>Collaboration and Sharing</h3>
-<a href="/nicshelp/articles/chat.php" target="_top">Chat</a><br />
-<a href="/nicshelp/articles/users.php" target="_top">Active Users</a><br />
-<a href="/nicshelp/articles/sharemap.php" target="_top">&quot;My Map&quot; and &quot;Share My Map&quot;</a><br />
-<a href="/nicshelp/articles/sync.php" target="_top">Map Sync</a><br />
+<a href="/scouthelp/articles/chat.php" target="_top">Chat</a><br />
+<a href="/scouthelp/articles/users.php" target="_top">Active Users</a><br />
+<a href="/scouthelp/articles/sharemap.php" target="_top">&quot;My Map&quot; and &quot;Share My Map&quot;</a><br />
+<a href="/scouthelp/articles/sync.php" target="_top">Map Sync</a><br />
 <h3>Advanced Topics</h3>
-<a href="/nicshelp/articles/miview.php" target="_top">Multi-Incident View</a><br />
-<a href="/nicshelp/articles/updown.php" target="_top">Import/Export GIS Files</a><br />
-<a href="/nicshelp/articles/forms.php" target="_top">Forms and Reports</a><br />
-<a href="/nicshelp/articles/drawing2.php" target="_top">Drawing Tips</a><br />
-<a href="/nicshelp/articles/aboutapps.php" target="_top">Apps</a><br />
-<h3>NICS Administration</h3>
-<a href="/nicshelp/articles/aboutadmin.php" target="_top">Admin Overview</a><br />
-<a href="/nicshelp/articles/usergroups.php" target="_top">Types of NICS Users</a><br />
-<a href="/nicshelp/articles/orgadmin.php" target="_top">Managing Organizations</a><br />
-<h3>NICS Mobile</h3>
-<a href="/nicshelp/articles/mobilelogin.php" target="_top">Download and Login Help</a><br />
-<a href="/nicshelp/articles/mobilesettings.php" target="_top">Settings</a><br />
-<a href="/nicshelp/articles/mobileincident.php" target="_top">Incidents and Rooms</a><br />
-<a href="/nicshelp/articles/mobilechat.php" target="_top">Chat</a><br />
-<a href="/nicshelp/articles/mobilemap.php" target="_top">Map</a><br />
-<a href="/nicshelp/articles/mobilereport.php" target="_top">Report</a><br />
-<a href="/nicshelp/articles/mobilemessage.php" target="_top">General Message</a><br />
-<a href="/nicshelp/articles/mobilefaq.php" target="_top">Troubleshooting and FAQ</a><br />
+<a href="/scouthelp/articles/miview.php" target="_top">Multi-Incident View</a><br />
+<a href="/scouthelp/articles/updown.php" target="_top">Import/Export GIS Files</a><br />
+<a href="/scouthelp/articles/forms.php" target="_top">Forms and Reports</a><br />
+<a href="/scouthelp/articles/drawing2.php" target="_top">Drawing Tips</a><br />
+<a href="/scouthelp/articles/aboutapps.php" target="_top">Apps</a><br />
+<h3>SCOUT Administration</h3>
+<a href="/scouthelp/articles/aboutadmin.php" target="_top">Admin Overview</a><br />
+<a href="/scouthelp/articles/usergroups.php" target="_top">Types of SCOUT Users</a><br />
+<a href="/scouthelp/articles/orgadmin.php" target="_top">Managing Organizations</a><br />
+<h3>SCOUT Mobile</h3>
+<a href="/scouthelp/articles/mobilelogin.php" target="_top">Download and Login Help</a><br />
+<a href="/scouthelp/articles/mobilesettings.php" target="_top">Settings</a><br />
+<a href="/scouthelp/articles/mobileincident.php" target="_top">Incidents and Rooms</a><br />
+<a href="/scouthelp/articles/mobilechat.php" target="_top">Chat</a><br />
+<a href="/scouthelp/articles/mobilemap.php" target="_top">Map</a><br />
+<a href="/scouthelp/articles/mobilereport.php" target="_top">Report</a><br />
+<a href="/scouthelp/articles/mobilemessage.php" target="_top">General Message</a><br />
+<a href="/scouthelp/articles/mobilefaq.php" target="_top">Troubleshooting and FAQ</a><br />
 <br />
-<h3 class="marginless"><a href="/nicshelp/videolibrary.php" target="_top">Video Library</a></h3>
-<h3 class="marginless"><a href="/nicshelp/links.php" target="_top">Links</a></h3>
-<h3 class="marginless"><a href="/nicshelp/documents.php" target="_top">Documents</a></h3>
+<h3 class="marginless"><a href="/scouthelp/videolibrary.php" target="_top">Video Library</a></h3>
+<h3 class="marginless"><a href="/scouthelp/links.php" target="_top">Links</a></h3>
+<h3 class="marginless"><a href="/scouthelp/documents.php" target="_top">Documents</a></h3>
 <br />
 </td>

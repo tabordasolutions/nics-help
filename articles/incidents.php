@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Incidents and Rooms ^ NICS Help</title>
+<title>Incidents and Rooms ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -59,7 +59,7 @@
 
 <h1><u>Incidents and Rooms</u></h1>
 
-<p>Like ICS, NICS is organized by named <span class="bu">Incidents</span>. 
+<p>Like ICS, SCOUT is organized by named <span class="bu">Incidents</span>. 
 Users are able to select and join an incident and then observe, copy, 
 collaborate or share with others also in that incident.</p>
 
@@ -88,7 +88,7 @@ alt="The Inicidents menu located at the top right of the desktop" />
 
 <p>After joining an incident, you will be able to access the incident's collaboration 
 room(s) for which you have permission.  Automatically, every incident has at least two rooms:  
-The IncidentMap which can be thought of as a common map for all NICS users, and the WorkingMap which is where 
+The IncidentMap which can be thought of as a common map for all SCOUT users, and the WorkingMap which is where 
 many different plans are drafted.  </p>
 
 <p>In addition, authorized users involved in the incident can create any number of additional 
@@ -145,7 +145,7 @@ all incidents; it is always available for your use. Use it to draft up a plan or
 </div>
 
 <p>Note: All information that is created or copied into your "My Map" room is 
-<i>saved</i> until deleted, even if you log out of NICS.  Users should use caution when sharing or copying information 
+<i>saved</i> until deleted, even if you log out of SCOUT.  Users should use caution when sharing or copying information 
 from this room with others.  Please ensure you are only sharing or copying the information intended to be shared or copied.</p>
 
 <p><span class="bu">Share My Map</span> information can be found on the
@@ -162,7 +162,7 @@ from this room with others.  Please ensure you are only sharing or copying the i
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>

@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Admin Overview ^ NICS Help</title>
+<title>Admin Overview ^ SCOUT Help</title>
 
-<meta name="description" content="Help page for quick reference and learning of NICS" />
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
 <link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
 <script src="../includes/articlejs.min.js" type="text/javascript"></script>
@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -59,14 +59,14 @@
 <div class="mainarea">
 <h1><u>Admin Overview</u></h1>
 
-<p>As NICS grows, more and more administrators will need to be trained in 
+<p>As SCOUT grows, more and more administrators will need to be trained in 
 order to manage organizations. The role of the Admin will be to monitor 
 incidents and rooms, approve accounts for new users, and general administrative 
 duties.</p>
 
 <p>The rest of this help site aims to help new administrators understand 
 their additional capabilities, as well as gain a better understanding on 
-how NICS is organized.</p>
+how SCOUT is organized.</p>
 
 <p>This section is a work in progress.</p>
 
@@ -75,7 +75,7 @@ how NICS is organized.</p>
 </tr></table>
 <!-- End content area -->
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/nicshelp/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/footer.php'; ?>
 
 </body>
 </html>
