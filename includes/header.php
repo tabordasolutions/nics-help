@@ -1,23 +1,3 @@
-<div id="header"><div id="headerbr"><div id="headerbl">
-<table>
-<tr>
-<td><div style="margin:2px;"><a href="/scouthelp">
-<img alt="Help Home" src="/scouthelp/images/SCOUT.png" height="32" />
-</a></div></td>
-<td><div style="height:30px"><h2>
-<a class="main" href="/scouthelp">SCOUT Help</a>
-</h2></div></td>
-<td>
-<div id="searcharea">
-<table><tr>
-<td><h6>Search</h6></td>
-<td><form name="searchform" onsubmit="return validatesearch()" method="get" action="/scouthelp/search.php">
-<input type="text" name="helpquery" style="width:250px;" value="<?php echo @$_GET['helpquery']; ?>" />
-<input type="submit" value="Search" />
-</form></td>
-</tr></table></div></td>
-</tr></table></div></div></div>
-
 <?php
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
@@ -48,6 +28,28 @@
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+?>﻿
+<div id="header"><div id="headerbr"><div id="headerbl">
+<table>
+<tr>
+<td><div style="margin:2px;"><a href="/scouthelp">
+<img alt="Help Home" src="/scouthelp/images/SCOUT.png" height="32" />
+</a></div></td>
+<td><div style="height:30px"><h2>
+<a class="main" href="/scouthelp">SCOUT Help</a>
+</h2></div></td>
+<td>
+<div id="searcharea">
+<table><tr>
+<td><h6>Search</h6></td>
+<td><form name="searchform" onsubmit="return validatesearch()" method="get" action="/scouthelp/search.php">
+<input type="text" name="helpquery" style="width:250px;" value="<?php echo @$_GET['helpquery']; ?>" />
+<input type="submit" value="Search" />
+</form></td>
+</tr></table></div></td>
+</tr></table></div></div></div>
+
+<?php
 function pagevideo($videoname,$exists){
     $picture = $exists?"$videoname.jpg":'novideo.png';
 	echo "<video controls='controls' poster='../videos/$picture' preload='none'>

@@ -1,26 +1,4 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-
-<title>Documents - SCOUT Help</title>
-
-<meta name="description" content="Help page for quick reference and learning of SCOUT" />
-<link href="../includes/favicon.ico" rel="shortcut icon" />
-<link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
-<script src="../includes/search.js" type="text/javascript"></script>
-
-</head>
-
-<!--
-The credentials to access this area over a browser:
-U: nicshelp
-P: nicshelppassword
-alterable in the .htpasswd file
--->
-
-<body>
-
-<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/docheader.php'; ?>
+<?php
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -50,6 +28,30 @@ alterable in the .htpasswd file
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+?>﻿
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Documents - SCOUT Help</title>
+
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
+<link href="../includes/favicon.ico" rel="shortcut icon" />
+<link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
+<script src="../includes/search.js" type="text/javascript"></script>
+
+</head>
+
+<!--
+The credentials to access this area over a browser:
+U: nicshelp
+P: nicshelppassword
+alterable in the .htpasswd file
+-->
+
+<body>
+
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/docheader.php'; ?>
 <!-- Content area below -->
 
 <table class="body">

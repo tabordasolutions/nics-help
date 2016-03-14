@@ -1,21 +1,4 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-
-<title>SCOUT Home Page ^ SCOUT Help</title>
-
-<meta name="description" content="Help page for quick reference and learning of SCOUT" />
-<link href="../includes/favicon.ico" rel="shortcut icon" />
-<link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
-<script src="../includes/articlejs.min.js" type="text/javascript"></script>
-
-</head>
-
-
-
-<body>
-
-<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
+<?php
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -45,6 +28,25 @@
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+ ?>
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>SCOUT Home Page ^ SCOUT Help</title>
+
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
+<link href="../includes/favicon.ico" rel="shortcut icon" />
+<link href="../includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
+<script src="../includes/articlejs.min.js" type="text/javascript"></script>
+
+</head>
+
+
+
+<body>
+
+<?php include $_SERVER['DOCUMENT_ROOT'].'/scouthelp/includes/header.php'; ?>
 <!-- Content area below -->
  
 <table class="body">
@@ -60,7 +62,7 @@
 <h1><u>SCOUT Home Page</u></h1>
 
 <p>The SCOUT Home Page is at <a href="http://scout.ca.gov" target="_blank">
-HTTP://NICS.LL.MIT.EDU</a></p>
+HTTP://SCOUT.CA.GOV</a></p>
 
 <p>When you navigate to the site, you will see the SCOUT home page. From 
 it, you may access the SCOUT application by clicking on either the:</p>
@@ -93,7 +95,7 @@ posted by a SCOUT Administrator.</p>
 <h3>SCOUT Login Page</h3>
 
 <p id="register">In order to access the SCOUT application, you must have a SCOUT account with a username and a password, 
-which is obtained when you <a href="https://scout.ca.gov/sadisplay/register.seam" target="_blank">“Register”</a> and after the SCOUT administrator for your organization has 
+which is obtained when you <a href="https://scout.ca.gov/sadisplay/register.seam" target="_blank">"Register"</a> and after the SCOUT administrator for your organization has 
 approved your application online.</p>
 
 <p>Once authorized, users can login by providing their username and password in the provide areas.  A user can also 

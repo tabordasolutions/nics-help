@@ -1,24 +1,3 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-
-<title>Search Results - SCOUT Help</title>
-
-<meta name="description" content="Help page for quick reference and learning of SCOUT" />
-<link href="includes/favicon.ico" rel="shortcut icon" />
-<link href="includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
-<script src="includes/search.js" type="text/javascript"></script>
-<style type="text/css">
-p.samplep {
-	margin-top:0;
-	margin-left:10px;
-	font-size:.8em;
-	font-style:italic;
-}
-</style>
-
-</head>
-
 <?php
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
@@ -49,6 +28,29 @@ p.samplep {
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+?>﻿
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+<title>Search Results - SCOUT Help</title>
+
+<meta name="description" content="Help page for quick reference and learning of SCOUT" />
+<link href="includes/favicon.ico" rel="shortcut icon" />
+<link href="includes/stylesheet.min.css" rel="stylesheet" type="text/css" />
+<script src="includes/search.js" type="text/javascript"></script>
+<style type="text/css">
+p.samplep {
+	margin-top:0;
+	margin-left:10px;
+	font-size:.8em;
+	font-style:italic;
+}
+</style>
+
+</head>
+
+<?php
 //Define the query variable early
 $query = 
 stripslashes(

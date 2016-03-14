@@ -1,3 +1,4 @@
+<?php
 /*
  * Copyright (c) 2008-2015, Massachusetts Institute of Technology (MIT)
  * All rights reserved.
@@ -27,6 +28,7 @@
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+ ?>
 <td class="sidebar">
 <h3>Getting Started</h3>
 <a href="/scouthelp/articles/abouthelp.php" target="_top">The SCOUT Application Help Site</a><br />
