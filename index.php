@@ -92,7 +92,7 @@
 <img style="height:100px" alt="Help Home" src="images/SCOUT.png" /><!-- lllogo.png -->
 </a></td>
 <td><div>
-<h1 style="font-size:28pt;margin:0">Situation Awareness Collaboration Tool<br /> Help
+<h1 style="font-size:28pt;margin:0">Situation Awareness & Collaboration Tool<br /> Help
 </h1></div></td>
 </tr></table>
 </div></div></div>

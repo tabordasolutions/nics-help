@@ -62,7 +62,7 @@
 <div class="mainarea">
 <h1><u>First Steps In SCOUT</u></h1>
 
-<p>Welcome to the Situation Awareness Collaboration Tool (SCOUT).
+<p>Welcome to the Situation Awareness & Collaboration Tool (SCOUT).
 Before we get started, please take the time to familiarize yourself 
 with the following important capabilities available any time you are logged into SCOUT.</p>
 

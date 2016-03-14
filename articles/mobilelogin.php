@@ -54,7 +54,7 @@
     <td><div style="width: 325px" ><strong>Download and Login Help</strong></div>
       <p>Download the SCOUT Android mobile application from the SCOUT server at: <a href="http://public.nics.ll.mit.edu/app/NICSMobile.apk" target="_blank">http://public.nics.ll.mit.edu/app/NICSMobile.apk</a></p>
       <p>Download the SCOUT Apple mobile application from the Apple Appstore at: <a href="https://itunes.apple.com/us/app/nics-mobile/id985324130?mt=8" target="_blank">https://itunes.apple.com/us/app/nics-mobile/id985324130?mt=8</a></p>
-      <p>Printable PDF with QR Codes for Apple and Android Apps for ICP display <a href="http://public.nics.ll.mit.edu/nicshelp/documents/NICS_MobileAppDownload.pdf" target="_blank">http://public.nics.ll.mit.edu/app/NICS_MobileAppDownload.pdf</a></p>
+      <p>Printable PDF with QR Codes for Apple and Android Apps for ICP display <a href="/scouthelp/documents/SCOUT_MobileAppDownload.pdf" target="_blank">http://scout.ca.gov/app/SCOUT_MobileAppDownload.pdf</a></p>
     <p>The best way to do this is to copy and paste this link in an email to the mobile device you intent to install the application on. </p>
     <p>It is also important to ensure that your phone settings allow the installation of 3rd party applications.</p>
     <p>Please  remember that SCOUT Mobile requires a valid email account username (legacy SCOUT  usernames that are not email addresses will not work).</p>
