@@ -33,7 +33,7 @@
 <html>
 <head>
 
-<title>"My Map" and "Share My Map" ^ SCOUT Help</title>
+<title>“My Map” and “Share My Map” ^ SCOUT Help</title>
 
 <meta name="description" content="Help page for quick reference and learning of SCOUT" />
 <link href="../includes/favicon.ico" rel="shortcut icon" />
@@ -59,7 +59,7 @@
 <td class="content">
 <div class="mainarea">
 
-<h1><u>"My Map" and "Share My Map"</u></h1>
+<h1><u>“My Map” and “Share My Map”</u></h1>
 
 <p>The 'My Map' space is your own private workspace.  
 No one else can see it unless you choose to share what you 

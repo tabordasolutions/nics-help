@@ -135,7 +135,7 @@ NEW ROOM feature to select from an assortment of pre-named rooms or create a com
 </div>
 -->
 
-<h3>Your "My Map" Workspace</h3>
+<h3>Your “My Map” Workspace</h3>
 
 <p>The <span class="bu">My Map</span> room is <i>Your Personal Private Workspace</i> that is independent of 
 all incidents; it is always available for your use. Use it to draft up a plan or create your situational awareness before 
@@ -146,7 +146,7 @@ all incidents; it is always available for your use. Use it to draft up a plan or
 <p>My Map</p>
 </div>
 
-<p>Note: All information that is created or copied into your "My Map" room is 
+<p>Note: All information that is created or copied into your “My Map” room is
 <i>saved</i> until deleted, even if you log out of SCOUT.  Users should use caution when sharing or copying information 
 from this room with others.  Please ensure you are only sharing or copying the information intended to be shared or copied.</p>
 

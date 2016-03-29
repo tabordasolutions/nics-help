@@ -95,7 +95,7 @@ posted by a SCOUT Administrator.</p>
 <h3>SCOUT Login Page</h3>
 
 <p id="register">In order to access the SCOUT application, you must have a SCOUT account with a username and a password, 
-which is obtained when you <a href="https://scout.ca.gov/sadisplay/register.seam" target="_blank">"Register"</a> and after the SCOUT administrator for your organization has 
+which is obtained when you <a href="https://scout.ca.gov/sadisplay/register.seam" target="_blank">“Register”</a> and after the SCOUT administrator for your organization has
 approved your application online.</p>
 
 <p>Once authorized, users can login by providing their username and password in the provide areas.  A user can also 
