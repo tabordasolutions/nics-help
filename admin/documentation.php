@@ -29,7 +29,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
  ?>
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 

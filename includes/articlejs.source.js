@@ -27,7 +27,7 @@
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-﻿//Search validation
+//Search validation
 function validatesearch() {
 	if (document.forms["searchform"]["helpquery"].value == "" ||
 		!(document.forms["searchform"]["helpquery"].value.match(/\w/g))) {
